@@ -1,0 +1,1 @@
+Nae Note is an Android-based mobile application built using the Android SDK, specifically Kotlin as the programming language, and SQLite as the database. This application focuses on personal notes and offers several features, including creating, viewing, editing, and deleting notes. Additionally, the application provides a search functionality to find specific notes.
